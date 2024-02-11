@@ -1,4 +1,5 @@
 # Set up the game board as a list
+print ('Mr.Devil')
 board = ["-", "-", "-",
 		"-", "-", "-",
 		"-", "-", "-"]
